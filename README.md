@@ -1,0 +1,2 @@
+# Electric-vehicle-battery-range-prediction
+Predict remaining useful lifetime of an electric car accurately to help drive owner satisfaction and future purchases. This solution comprises analyzing the vast quantity of telemetry data over time and building a Machine Learning model to predict the remaining useful life(RUL) of an electric vehicles EVs at each point in time of the operation of said vehicle. The customer is the largest automotive manufacturing company in India, by market share. The customer designs, builds, and delivers electric vehicles (EVs).
