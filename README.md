@@ -1,3 +1,8 @@
+![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
+![BUILD STATUS](https://img.shields.io/badge/Build-passing-yellow.svg)
+![License](https://img.shields.io/badge/license-Apache%202-red.svg)
+![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-blue.svg)
+![obsesve](https://img.shields.io/badge/observatory-A%2B-lightgrey.svg)
 
 ## Introduction
 
@@ -320,4 +325,11 @@ Storage bucket ....
 All the output is stored on GCS, path :
 The output contain prediction results, transformed data, model metrics and trained model.
 
+<hr>
 
+<b>Created by :</b>
+<b><i> Anubhav Shukla </i></b>
+</br>
+</br>
+![anubhav](https://img.shields.io/badge/Anubhav-%402019-orange.svg)
+![status](https://img.shields.io/badge/Status-up-green.svg)
