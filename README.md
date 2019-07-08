@@ -21,7 +21,7 @@ Depending on the audience, the presenter can show:
 <li>A deep dive into the technical elements</li>
 </ol>
 
-## Google products used
+## Google Cloud products used
 Google Cloud Storage, Datalab,, Compute Engine instances
 
 ## Problem
@@ -41,9 +41,6 @@ model is finalised based on the calculated accuracy (root mean squared error).</
     <li> The relative value of Electric Vehicle battery State of Charge have been considered as the target variable for prediction.</li>
     <li>Smoothing Discrete signals - The dataset consists of signals that are transmitted through GSM per unit time . Hence the signals showed a discrete behaviour on reception.
     The purpose of smoothing was to do outlier detection and imputation of values that are not in the range
-
-
-
 The following approaches were considered for smoothing the discrete signals :
   <ul>
     <li> Butterworth Low Pass filter</li>
@@ -51,11 +48,7 @@ The following approaches were considered for smoothing the discrete signals :
     <li> Exponential Moving Averages</li>
    </ul>
  Exponential Moving Averages was found to be a better approach for discrete signal
- smoothing. The following screenshot captures the result for exponential smoothing.
- ![alt text](http://url/to/graph.png)
- 
- 
- </li>
+ smoothing. </li>
 
 <li> Defining trips in the dataset - A trip in the dataset is defined as a series of observations that have uniform differences in the corresponding time . A trip ends when the subsequent timestamp exceeds the defined space (observations with 100 ms time interval have been defined within the scope of the trip)</li>
 <li>Upon data exploration, it has been observed that the battery State of Charge is typically not replenished between subsequent trips in the dataset </li>
