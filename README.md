@@ -23,7 +23,7 @@ Executives, business users, data scientists, and developers.
 Depending on the audience, the presenter can show:
 <ol>
 <li> Business capability</li>
-<li>A deep dive into the technical elements</li>
+<li>A deep dive into the technical parts</li>
 </ol>
 
 ## Google Cloud products used
